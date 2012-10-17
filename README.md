@@ -1,4 +1,4 @@
 pngMessage
 ==========
 
-small program for encoding messages into .png files
+small program for sticking messages into .png files
