@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1332000944 source:c:\users\wessur2\dropbox\mine!\pngmessage\opener.cpp
+	"opener.h"
+
+1331998614 c:\users\wessur2\dropbox\mine!\pngmessage\opener.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1332000900 source:c:\users\wessur2\dropbox\mine!\pngmessage\main.cpp
+	<iostream>
+	"opener.h"
+
+1332000944 source:c:\users\wessur2\dropbox\mine!\projects\pngmessage\opener.cpp
+	"opener.h"
+
+1331998614 c:\users\wessur2\dropbox\mine!\projects\pngmessage\opener.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1332000900 source:c:\users\wessur2\dropbox\mine!\projects\pngmessage\main.cpp
+	<iostream>
+	"opener.h"
+
